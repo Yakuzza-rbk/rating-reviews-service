@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class NameOfTheService extends React.Component {
+export default class RatingReviews extends React.Component {
   constructor() {
     super();
 
