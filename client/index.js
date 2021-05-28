@@ -1,3 +1,3 @@
-import NameOfTheService from './components/NameOfTheService.jsx';
+import RatingReviews from './components/Rating&Reviews.jsx';
 
-window.NameOfTheService = NameOfTheService;
+window.RatingReviews = RatingReviews;
