@@ -14,7 +14,7 @@ export default class RatingReviews extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hello Service 1</h1>
+        <h1>Hello Service </h1>
       </div>
     );
   }
